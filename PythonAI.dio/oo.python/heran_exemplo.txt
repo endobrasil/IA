@@ -1,0 +1,16 @@
+classe
+
+class A:
+    pass
+
+class C:
+    pass
+
+herança simples
+class B(A):
+    pass
+
+herança multipla
+
+class G(A, C):
+    pass    
