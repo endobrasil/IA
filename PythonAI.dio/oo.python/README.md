@@ -18,4 +18,14 @@
 
 
 
+### Aplicando Encapsulamento em Python
+* O que é Encapsulamento?
+    * renstrinções ao acesso direto, modifica;'oes acidentais 。。。
+    * esta proteção
+* Recursos públicos e privados
+    * por convenção, python usa o '_' para privado antes do nome da variável, mas ainda estará disponível, então tudo é público em python。。。 
+* *Propriedades
+
+
+
 # :P
