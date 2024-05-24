@@ -39,3 +39,14 @@
 * Métodos de classe e Métodos estático
 * O que são Interfaces
 * Classes Abstratas
+
+
+
+### Decoradores, Iteradores e Geradores com Python
+* Decoradores
+    * posso passar uma fun;'ao como argumento de fun;'ao e retornar outra fun;'ao como retorno de uma função
+    * ai pode ter funções escritas dentro de funções
+* Iteradore
+* Geradores
+* Explicação desafio
+* Resolução do desafio
