@@ -31,3 +31,11 @@
 ### Conhecendo Polimorfismo em Python
 * O que é Polimorfismo? 
 * Polimorfismo com Herança
+
+
+
+### POO com Python - Interfaces e Classes Abstratas
+* Variáveis de classe e Variáveis de instância
+* Métodos de classe e Métodos estático
+* O que são Interfaces
+* Classes Abstratas
