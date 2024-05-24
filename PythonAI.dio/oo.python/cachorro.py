@@ -19,7 +19,7 @@ cao_2=Cachorro("Ala","branco")
 
 cao_1.latir()
 
-swl cao_1
+
 print(cao_2.acordado)
 cao_2.dormir()
 print(cao_2.acordado)

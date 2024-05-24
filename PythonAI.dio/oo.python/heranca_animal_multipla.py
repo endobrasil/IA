@@ -31,8 +31,8 @@ class Ornitorrinco(Mamifero, Ave):
     pass
 
 
-gato=Gato(cor_pelo="preto",nro_patas=4)
+gato=(Gato(cor_pelo="preto",nro_patas=4))
 print(gato)
 
-orni=Ornitorrinco(cor_pelo="amarelo",cor_bico="azul",nro_patas=6)
+orni=(Ornitorrinco(cor_pelo="amarelo",cor_bico="azul",nro_patas=6))
 print(orni)
