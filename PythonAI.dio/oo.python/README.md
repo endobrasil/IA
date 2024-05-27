@@ -50,5 +50,4 @@
 * Geradores
     * não carrega logo tudo na memória
     * uma vez gerado consumido, não é possível acessa-lo novamente
-* Explicação desafio
-* Resolução do desafio
+* desafio
