@@ -54,3 +54,12 @@
     * não carrega logo tudo na memória
     * uma vez gerado consumido, não é possível acessa-lo novamente
 * desafio
+
+
+
+### Gerenciamento de Pacotes, Convenções e Boas Práticas Python
+* O que são pacotes e o uso do pip
+    * <https://pypi.org/>
+* Gerenciando dependências com Pipenv
+* Gerenciando dependências com Poetry
+* Boas práticas
