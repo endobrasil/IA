@@ -16,4 +16,11 @@
 * Orientação a Objetos e Boas Práticas em Python
 * Bancos de Dados SQL e NoSQL Para Devs Backend
 * Explorando o FastAPI na Prática com TDD
+    * Introdução ao Desenvolvimento Web com Python
+        * Introdução ao desenvolvimento Web
+        * Como a Web funciona
+        * Tecnologias front-end e back-end
+        * APIs e conceitos fundamentais
+        * Tipos de APIs - RESTful, SOAP e GraphQL
+        * Verbos HTTP - GET, POST, PATCH, PUT e DELETE
 * Desmistificando os Pilares da Inteligência Artificial (IA)
