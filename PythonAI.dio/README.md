@@ -24,3 +24,10 @@
         * Tipos de APIs - RESTful, SOAP e GraphQL
         * Verbos HTTP - GET, POST, PATCH, PUT e DELETE
 * Desmistificando os Pilares da Inteligência Artificial (IA)
+    * Aplicações Práticas da Inteligência Artificial
+        * Chatbots na Prática (ChatGPT, Bing e Bard): Transcrições
+        * Bônus: Conhecendo a API da OpenAI: Transcrições
+        * Geração de Imagens (Bing, Leonardo AI e Midjourney): Transcrições
+        * Voz e Avatares Virtuais (ElevenLabs, D-ID e HeyGen): Transcrições
+    * Algoritmos e Aprendizado de Máquina
+        
