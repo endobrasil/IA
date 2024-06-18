@@ -10,5 +10,6 @@
 ### source ~/.bash
 
 * Meu Deus, seguindo o passo a passo será que vai funcionar???
-    * finalizado o vídeo criação do schemas e modelos...
+    * criação do schemas e modelos
+    * inserindo docker composer e configuração do alembic.
 
