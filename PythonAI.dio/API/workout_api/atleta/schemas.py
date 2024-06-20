@@ -1,4 +1,5 @@
-from pydantic import BaseModel
+from typing import Annotated
+from pydantic import BaseModel, Field, PositiveFloat
 
 class Atleta(BaseModel):
     nome: Annotated[str, Field(description='Nome do atleta', example='Andre', max_lenght=50)]

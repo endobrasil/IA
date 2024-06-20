@@ -1,3 +1,6 @@
+from datetime import datetime
+from sqlalchemy import DateTime, Integer, String, Float
+from sqlalchemy.orm import Mapped, mapped_column
 from workout_api.contrib.models import BaseModel
 
 class AtletaModel(BaseModel):
