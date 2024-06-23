@@ -3,7 +3,7 @@
 ## Desenvolvendo sua Primeira API com FastAPI, Python e Docker
 
 
-<p>DESCRIÇÃO</p>
+<p style='color:blue'>DESCRIÇÃO</p>
 <p>Neste projeto você aprenderá a criar uma poderosa API assíncrona de um academia para uma competição de crossfit. Usando o framework FastAPI, irá permitir a construção eficiente dess aplicativo web, moderno, que podem ajudar a entender e lidar com operações simultâneas de maneira eficaz e escalável.</p>
 </div>
 
@@ -21,4 +21,5 @@
         * instalando o alembic
             * pip install alembic
             * alembic init alembic
-    * mas oks, fazer o inserir e configurar os dados...
+    * Fazer o inserir e configurar os dados...
+        * foi feito, mas nos ajustes das rotas a aplicação quebrou e não consegui rever ester erros... que triste :{()
