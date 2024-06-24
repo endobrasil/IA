@@ -23,4 +23,5 @@
             * alembic init alembic
     * Fazer o inserir e configurar os dados...
         * foi feito, mas nos ajustes das rotas a aplicação quebrou e não consegui rever ester erros... que triste :{()
-    * rotas
+    * feito a criação de rotas de Categoria.
+    * a fazer as rotas de centro de treinamento
