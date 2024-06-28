@@ -13,6 +13,5 @@
         * pytest
         * pytest-asyncio
         * pre-commit
-
-
-
+    * Testes e schemas
+    * Mongo
