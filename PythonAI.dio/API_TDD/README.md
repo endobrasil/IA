@@ -15,3 +15,6 @@
         * pre-commit
     * Testes e schemas
     * Mongo
+    * usecases e teste
+    * CRUD
+    * teste s de controles e rotas
